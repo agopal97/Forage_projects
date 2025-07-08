@@ -1,2 +1,4 @@
-# CS309_project 
-This project is called Pro-duck-tivity app as this was done asa team project. It uses android devlopment, and key software devlopment principles. Language: uses Java mostly.
+# Forage_projects:  
+This repository stores all job simulation projects from Forage.com
+
+#Project 1
