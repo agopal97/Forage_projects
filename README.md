@@ -3,4 +3,4 @@ This repository stores all job simulation projects from Forage.com
 
 [Introduction to Data for Decision Makers(BCGx):Campaign & Channel Performance Analysis](./BCGxjobSim)
 
-Data Analytics(Deloitte): data analysis and forensic technology 
+[Data Analytics(Deloitte): data analysis and forensic technology](./DeloitteAnalyticsSim). 
